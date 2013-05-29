@@ -1,3 +1,4 @@
+#include <Usb.h> // needed by Arduino IDE
 #include <USB_Host_Shield_GPIO.h>
 
 MaxGPIO max;
