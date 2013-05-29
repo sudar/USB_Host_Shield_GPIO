@@ -6,8 +6,10 @@
  * @note Requires v2.0 of USB Host Shield Library available at https://github.com/felis/USB_Host_Shield_2.0
  *
  * @author Sudar <http://sudarmuthu.com> <http://hardwarefun.com>
- * @version 0.1
+ * @version 1.0.0
+ * @copyright BEERWARE
  * @date 2012-10-26
+ * http://hardwarefun.com/projects/usb-host-shield-gpio
  */
 
 /*

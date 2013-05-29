@@ -6,19 +6,23 @@
  * @note Requires v2.0 of USB Host Shield Library available at https://github.com/felis/USB_Host_Shield_2.0
  *
  * @author Sudar <http://sudarmuthu.com> <http://hardwarefun.com>
- * @version 0.1
+ * @version 1.0.0
+ * @copyright BEERWARE
  * @date 2012-10-26
+ * http://hardwarefun.com/projects/usb-host-shield-gpio
  */
 
 /*
- * Copyright 2011  Sudar Muthu  (http://sudarmuthu.com)
- * ----------------------------------------------------------------------------
+ * Copyright 2012  Sudar Muthu  (http://sudarmuthu.com)
+ * ------------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
- * <sudar@sudarmuthu.com> wrote this file. As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a beer or coffee in return - Sudar
- * ----------------------------------------------------------------------------
+ * Sudar <http://sudarmuthu.com> wrote this file. 
+ * As long as you retain this notice you can do whatever you want with this stuff.
+ * If we ever meet and you are overcome with gratitude,
+ * feel free to express your feelings via beverage :)
+ * ------------------------------------------------------------------------------
  */
+
 #include <Usb.h>
 #include <avr/pgmspace.h>
 
